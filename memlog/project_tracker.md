@@ -1,7 +1,7 @@
 # Web-to-Markdown Service - Project Tracker
 
 ## Sprint 0 - Project Kickoff (2 d)
-- [ ] PRD sign-off (PM, Tech Lead)
+- [x] PRD sign-off (PM, Tech Lead)
 - [ ] Set up GitHub repo `web2md` with `infra`, `service`, `web` dirs.
 
 ## Sprint 1 - API Skeleton (5 d)
